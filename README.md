@@ -16,6 +16,6 @@ https://user-images.githubusercontent.com/93022107/182493438-9d21f738-f047-4dd9-
 
 ## Description:
 ### An app created inspired by tik-tok, which serves to publish videos, like, comment. That you can create your account using google, it shows suggested accounts and their profile showing their videos and the likes they gave, made in website and mobile version.
-//
+
 ## Descrição:
 ### Um app criado inspirado no tik-tok, que serve para publicar videos, dar likes, comentar. Que vc pode criar sua conta usando o google, mostra contas sugeridas e o perfil delas mostrando seus videos e os likes que deram, feito em versão de sites e mobile.
