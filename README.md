@@ -1,7 +1,6 @@
 # Tik-Tok Clone Project (Sites/Mobiles)
 ## Build: NextJS, Sanity, TailWind, react-oauth/google, react-icons. 
-### Maybe online:  https://tik-tik-project.vercel.app/ 
-#### (I disabled the video upload, to avoid bad people.) //// (Desativei o Upload de video, para evitar pessoas de má índole.)
+
 ## Video part 1
 
 https://user-images.githubusercontent.com/93022107/182492272-c28c284b-4630-4803-a94c-df797cea192c.mp4
